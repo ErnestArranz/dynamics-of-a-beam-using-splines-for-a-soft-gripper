@@ -1,0 +1,1 @@
+# dynamics-of-a-beam-using-splines-for-a-soft-gripper
